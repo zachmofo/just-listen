@@ -8,7 +8,7 @@ Listen first. Then write from memory.
 
 | # | Episode | Worksheet |
 |---|---------|-----------|
-| 1 | The First Peoples of this Land | [PDF](worksheets/american-history/01-first-peoples.pdf) |
+| 1 | The First Peoples of this Land | [PDF](worksheets/american-history/The%20First%20Peoples%20of%20this%20Land.pdf) |
 | 2 | Explorers Cross the Ocean | [PDF](worksheets/american-history/02-explorers.pdf) |
 | 3 | New Spain and the Borderlands | [PDF](worksheets/american-history/03-new-spain.pdf) |
 | 4 | Jamestown and a Fragile Foothold | [PDF](worksheets/american-history/04-jamestown.pdf) |
@@ -21,7 +21,7 @@ Listen first. Then write from memory.
 
 Direct link pattern (after the PDFs are in the folder):
 
-`https://github.com/zachmofo/just-listen/raw/main/worksheets/american-history/01-first-peoples.pdf`
+`https://github.com/zachmofo/just-listen/raw/main/worksheets/american-history/The%20First%20Peoples%20of%20this%20Land.pdf`
 
 ## Note
 
