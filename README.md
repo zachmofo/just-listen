@@ -26,3 +26,5 @@ Direct link pattern (after the PDFs are in the folder):
 ## Note
 
 Do not commit episode videos here.
+
+Want more lessons? [SchoolhouseTeachers.com](https://schoolhouseteachers.com/ref/119866/) has online courses, including history. (Affiliate link. We may earn a small commission at no cost to you.)
