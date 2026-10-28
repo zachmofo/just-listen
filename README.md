@@ -23,6 +23,12 @@ Direct link pattern (after the PDFs are in the folder):
 
 `https://github.com/zachmofo/just-listen/raw/main/worksheets/american-history/The%20First%20Peoples%20of%20this%20Land.pdf`
 
+## Latin for Families
+
+| # | Lesson | Worksheet |
+|---|---------|-----------|
+| 1 | Lesson 1: Salve and Vale (hello and goodbye) | [PDF](worksheets/latin/01-salve-vale.pdf) |
+
 ## Note
 
 Do not commit episode videos here.
