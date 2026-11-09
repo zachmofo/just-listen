@@ -28,6 +28,7 @@ Direct link pattern (after the PDFs are in the folder):
 | # | Lesson | Worksheet |
 |---|---------|-----------|
 | 1 | Lesson 1: Salve and Vale (hello and goodbye) | [PDF](worksheets/latin/01-salve-vale.pdf) |
+| 3 | Lesson 3: Aqua (water) | [PDF](worksheets/latin/03-aqua.pdf) |
 
 ## Note
 
