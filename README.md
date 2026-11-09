@@ -28,6 +28,7 @@ Direct link pattern (after the PDFs are in the folder):
 | # | Lesson | Worksheet |
 |---|---------|-----------|
 | 1 | Lesson 1: Salve and Vale (hello and goodbye) | [PDF](worksheets/latin/01-salve-vale.pdf) |
+| 2 | Lesson 2: Familia (family) | [PDF](worksheets/latin/02-familia.pdf) |
 | 3 | Lesson 3: Aqua (water) | [PDF](worksheets/latin/03-aqua.pdf) |
 | 4 | Lesson 4: Terra (earth) | [PDF](worksheets/latin/04-terra.pdf) |
 
