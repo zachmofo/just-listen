@@ -18,6 +18,7 @@ Listen first. Then write from memory.
 | 8 | Slavery in British America | [PDF](worksheets/american-history/08-slavery.pdf) |
 | 9 | The Road to Revolution | [PDF](worksheets/american-history/09-road-to-revolution.pdf) |
 | 10 | Declaring Independence | [PDF](worksheets/american-history/10-declaring-independence.pdf) |
+| 11 | Winning the Revolutionary War | [PDF](worksheets/american-history/11-winning-a-war.pdf) |
 
 Direct link pattern (after the PDFs are in the folder):
 
