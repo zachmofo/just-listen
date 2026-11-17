@@ -20,6 +20,7 @@ Listen first. Then write from memory.
 | 10 | Declaring Independence | [PDF](worksheets/american-history/10-declaring-independence.pdf) |
 | 11 | Winning the Revolutionary War | [PDF](worksheets/american-history/11-winning-a-war.pdf) |
 | 12 | The Constitution | [PDF](worksheets/american-history/12-constitution.pdf) |
+| 13b | Shays' Rebellion | [PDF](worksheets/american-history/13b-shays-rebellion.pdf) |
 
 Direct link pattern (after the PDFs are in the folder):
 
